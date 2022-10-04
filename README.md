@@ -7,7 +7,7 @@ npm i pretty-style
 ```
 
 ```js
-import { prettyStyle } from "node_modules/pretty-style/index.js";
+import { prettyStyle } from "./node_modules/pretty-style/index.js";
 
 prettyStyle.css = `
 .container{
