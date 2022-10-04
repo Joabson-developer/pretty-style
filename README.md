@@ -1,6 +1,6 @@
 # function able to style through javascript without leaving inline traces
 
-Como usar?
+How use?
 
 ```shell
 npm i pretty-style
